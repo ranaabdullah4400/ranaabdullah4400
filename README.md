@@ -22,13 +22,6 @@ I'm a **Shopify Partner** committed to delivering reliable, high-quality work wi
 
 ## What I Do 🛠️
 
-**⚙️ Shopify Functions & Custom App Development**
-* Product Discount Functions
-* Order Discount Functions
-* Product Shipping Functions
-* Checkout UI Extensions
-* Custom Shopify apps built to meet specific business requirements
-
 **🎨 Theme Development & Customization**
 * Shopify 2.0 theme architecture — Liquid, HTML, CSS, JavaScript, JSON templates
 * Full customization of headers, footers, product pages, and collection pages
@@ -45,6 +38,13 @@ I'm a **Shopify Partner** committed to delivering reliable, high-quality work wi
 
 **📱 Responsive Design**
 * Fully responsive layouts tested across devices for consistent performance
+
+**⚙️ Shopify Functions & Custom App Development**
+* Product Discount Functions
+* Order Discount Functions
+* Product Shipping Functions
+* Checkout UI Extensions
+* Custom Shopify apps built to meet specific business requirements
 
 ## Tech I Use 🧰
 
