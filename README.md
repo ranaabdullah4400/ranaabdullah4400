@@ -9,6 +9,11 @@
        src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg">
 </a>
 
+<a href="https://wa.me/923004462436">
+  <img align="left" alt="WhatsApp" width="22px"
+       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg" />
+</a>
+
 </br> </br>
 
 Hi, I'm a Shopify Developer with **5+ years of experience** helping merchants build, customize, and optimize their Shopify stores. My work spans both front-end theme development and back-end custom solutions, allowing me to solve technical requirements that standard themes or third-party apps can't fulfill. 🚀
@@ -52,5 +57,6 @@ I'm a **Shopify Partner** committed to delivering reliable, high-quality work wi
 
 If you'd like to discuss your project requirements, reach out with details of your store and goals — I'm happy to advise on the most suitable technical approach before any work begins.
 
-* Email: rana.abdullah4400@gmail.com
 * LinkedIn: https://linkedin.com/in/muhammad-abdullah4400
+* Email: rana.abdullah4400@gmail.com
+* WhatsApp: https://wa.me/923004462436
