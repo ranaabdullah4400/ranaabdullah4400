@@ -16,7 +16,8 @@
 
 </br> </br>
 
-Hi, I'm a Shopify Developer with **5+ years of experience** helping merchants build, customize, and optimize their Shopify stores. My work spans both front-end theme development and back-end custom solutions, allowing me to solve technical requirements that standard themes or third-party apps can't fulfill. 🚀
+Hi, I'm a Shopify Developer with **5+ years of experience** helping merchants build, customize, and optimize their Shopify Plus stores. My work spans both front-end theme development and back-end custom solutions, allowing me to solve technical requirements that standard themes or third-party apps can't fulfill. 🚀
+Actively managing and scaling a multi-store Shopify Plus operation designed for a high-traffic, subscription-based business.
 
 I'm a **Shopify Partner** committed to delivering reliable, high-quality work with clear communication throughout every project.
 
@@ -26,10 +27,16 @@ I'm a **Shopify Partner** committed to delivering reliable, high-quality work wi
 * Shopify 2.0 theme architecture — Liquid, HTML, CSS, JavaScript, JSON templates
 * Full customization of headers, footers, product pages, and collection pages
 * Custom sections, sliders, cart drawers, and size charts
+* Custom business logic development
+* Accessibility improvements aligned with WCAG 2.1 AA standards
+* Cross-platform integrations (Zendesk, Jira, Salesforce) leveraging webhook-based architecture
+* Advanced use of metafields and metaobjects to drive dynamic, content-rich product pages
+* Managing headless commerce content through Builder integration with Shopify
 
 **⚡ Performance & Optimization**
 * Site speed optimization through lazy loading and code refinement
 * Clean, efficient code structure for long-term scalability
+* Performance tuning via Lighthouse audits
 
 **📈 Conversion & Marketing Features**
 * Upsells, cross-sells, and related product sections
