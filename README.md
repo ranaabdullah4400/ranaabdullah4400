@@ -1,5 +1,9 @@
 # Muhammad Abdullah Rana | Shopify Developer | Custom Apps & Shopify Functions Specialist ✨
 
+<a href="https://muhammad-abdullah-rana.wuaze.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=googlechrome&logoColor=white" />
+</a>
+
 <a href="https://linkedin.com/in/muhammad-abdullah-rana1" rel="nofollow">
   <img align="left" alt="LinkedIn" width="22px" src="https://camo.githubusercontent.com/db7e03f5a5185bd451893acb4fd94f550593b844e5353fe735f9abadbbc67bce/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;">
 </a>
