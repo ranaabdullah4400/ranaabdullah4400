@@ -64,6 +64,7 @@ I'm a **Shopify Partner** committed to delivering reliable, high-quality work wi
 
 If you'd like to discuss your project requirements, reach out with details of your store and goals — I'm happy to advise on the most suitable technical approach before any work begins.
 
+* Portfolio and contact: https://muhammad-abdullah-rana.wuaze.com
 * LinkedIn: https://linkedin.com/in/muhammad-abdullah-rana1
 * Email: rana.abdullah4400@gmail.com
 * WhatsApp: https://wa.me/923004462436
